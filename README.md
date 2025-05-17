@@ -7,7 +7,7 @@
 | -                       | fanum tax                                       |
 | +                       | bro                                             |
 | print                   | yap                                             |
-| True                    | Frfr                                            |
+| True                    | Bussin                                          |
 | False                   | Cap                                             |
 | def                     | let him cook                                    |
 | while                   | say less                                        |
@@ -40,7 +40,7 @@
 | ≥                       | sigma twin                                      |
 | ≤                       | beta twin                                       |
 | ==                      | ong its                                         |
-| =                       | bet                                             |
+| =                       | frfr                                            |
 | async                   | mindful                                         |
 | await                   | holup                                           |
 | open                    | mog                                             |
@@ -48,6 +48,6 @@
 | write                   | W                                               |
 | close                   | demure                                          |
 | list                    | huzz                                            |
-| set                     |                                                 |
+| set                     | preppy                                          |
 | dict                    | matrix                                          |
 
