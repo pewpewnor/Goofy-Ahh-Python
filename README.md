@@ -41,6 +41,7 @@
 | ≤                       | beta twin                                       |
 | ==                      | ong its                                         |
 | =                       | frfr                                            |
+| -=                      | minus                                           |
 | async                   | mindful                                         |
 | await                   | holup                                           |
 | open                    | mog                                             |
