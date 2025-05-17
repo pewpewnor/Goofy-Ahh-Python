@@ -42,6 +42,7 @@
 | ==                      | ong its                                         |
 | =                       | frfr                                            |
 | -=                      | minus                                           |
+| +=                      | bet                                             |
 | async                   | mindful                                         |
 | await                   | holup                                           |
 | open                    | mog                                             |
