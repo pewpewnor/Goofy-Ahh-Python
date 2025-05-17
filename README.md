@@ -21,7 +21,7 @@
 | assert                  | sus                                             |
 | raise                   | crashout                                        |
 | in                      | rizz                                            |
-| is                      | low key is kinda                                |
+| is                      | low key kinda                                   |
 | and                     | gyatt                                           |
 | or                      | fein                                            |
 | not                     | no                                              |
